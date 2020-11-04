@@ -6,7 +6,7 @@ arch:
 go_import_path: golang.org/x/tools/cmd/vet/
 go_import_path: golang.org/x/tools/go/gcexportdata/
 go:
-  - 1.5
+  - 3.5
   - tip
 
 install:
