@@ -2,7 +2,7 @@ language: go
 arch:
   - amd64
   - ppc64le
-sudo: false
+##sudo: false
 go_import_path: golang.org/x/tools/cmd/vet/
 go_import_path: golang.org/x/tools/go/gcexportdata/
 go:
